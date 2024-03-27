@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/enginerkustan/PORTFOLI/static/css/main.d02adebf.css",
-    "main.js": "/enginerkustan/PORTFOLI/static/js/main.aa6eb9a2.js",
-    "static/media/Profile.png": "/enginerkustan/PORTFOLI/static/media/Profile.a3b2c346d44e96cf5c25.png",
-    "static/media/JAVA.jpeg": "/enginerkustan/PORTFOLI/static/media/JAVA.8942f019a104f0494081.jpeg",
-    "static/media/AutomationTest.jpeg": "/enginerkustan/PORTFOLI/static/media/AutomationTest.482a060eef1fbebcf347.jpeg",
-    "static/media/API.jpeg": "/enginerkustan/PORTFOLI/static/media/API.7cb28a8f0f98fd824d98.jpeg",
-    "static/media/SQL.png": "/enginerkustan/PORTFOLI/static/media/SQL.d1c240a2b1dfb6ff8eb5.png",
-    "static/media/JIRA.jpeg": "/enginerkustan/PORTFOLI/static/media/JIRA.3bf5131175ebaed5a91a.jpeg",
-    "static/media/selenium.jpeg": "/enginerkustan/PORTFOLI/static/media/selenium.8715c07fac0d0af890e3.jpeg",
-    "static/media/github.png": "/enginerkustan/PORTFOLI/static/media/github.498c4786b96ccf47ed52.png",
-    "index.html": "/enginerkustan/PORTFOLI/index.html",
-    "main.d02adebf.css.map": "/enginerkustan/PORTFOLI/static/css/main.d02adebf.css.map",
-    "main.aa6eb9a2.js.map": "/enginerkustan/PORTFOLI/static/js/main.aa6eb9a2.js.map"
+    "main.css": "/PORTFOLI/static/css/main.d02adebf.css",
+    "main.js": "/PORTFOLI/static/js/main.83641161.js",
+    "static/media/Profile.png": "/PORTFOLI/static/media/Profile.a3b2c346d44e96cf5c25.png",
+    "static/media/JAVA.jpeg": "/PORTFOLI/static/media/JAVA.8942f019a104f0494081.jpeg",
+    "static/media/AutomationTest.jpeg": "/PORTFOLI/static/media/AutomationTest.482a060eef1fbebcf347.jpeg",
+    "static/media/API.jpeg": "/PORTFOLI/static/media/API.7cb28a8f0f98fd824d98.jpeg",
+    "static/media/SQL.png": "/PORTFOLI/static/media/SQL.d1c240a2b1dfb6ff8eb5.png",
+    "static/media/JIRA.jpeg": "/PORTFOLI/static/media/JIRA.3bf5131175ebaed5a91a.jpeg",
+    "static/media/selenium.jpeg": "/PORTFOLI/static/media/selenium.8715c07fac0d0af890e3.jpeg",
+    "static/media/github.png": "/PORTFOLI/static/media/github.498c4786b96ccf47ed52.png",
+    "index.html": "/PORTFOLI/index.html",
+    "main.d02adebf.css.map": "/PORTFOLI/static/css/main.d02adebf.css.map",
+    "main.83641161.js.map": "/PORTFOLI/static/js/main.83641161.js.map"
   },
   "entrypoints": [
     "static/css/main.d02adebf.css",
-    "static/js/main.aa6eb9a2.js"
+    "static/js/main.83641161.js"
   ]
 }
